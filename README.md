@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jorgeabrahan?tab=repositories](https://github.com/jorgeabrahan?tab=repositories)
 
-- 📝 Check my certificates at [https://drive.google.com/drive/folders/1ANwouirgAyjSqvAG9wwrHNsI1s0fcU4H?usp=share_link](https://drive.google.com/drive/folders/1ANwouirgAyjSqvAG9wwrHNsI1s0fcU4H?usp=share_link)
+- 📝 Check my certificates at [https://drive.google.com/drive/folders/mycertificates](https://drive.google.com/drive/folders/1ANwouirgAyjSqvAG9wwrHNsI1s0fcU4H?usp=share_link)
 
 - 💬 My preferred stack is **MongoDB, ExpressJS, ReactJS, NodeJs (MERN)**
 
 - 📫 Reach me at **jorge24abrahan@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1hdZjYndn0A_jX5sd-85eTdqUHDxtg5e2I9pNv8mTei8/edit?usp=share_link](https://docs.google.com/document/d/1hdZjYndn0A_jX5sd-85eTdqUHDxtg5e2I9pNv8mTei8/edit?usp=share_link)
+- 📄 Know about my experiences [https://docs.google.com/document/myresume](https://docs.google.com/document/d/1hdZjYndn0A_jX5sd-85eTdqUHDxtg5e2I9pNv8mTei8/edit?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
